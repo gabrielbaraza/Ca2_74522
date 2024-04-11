@@ -18,3 +18,6 @@ Gabriel Baraza n74522
 - [x] Git repository set to public and README.md with Name, Student ID and requirements checklist (with ticks)
 - [x] Video screencast link provided
 - [x] Added release with app-debug.apk file (located in the root) in the repository
+
+
+Report located in the root folder.
